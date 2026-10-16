@@ -1,0 +1,1 @@
+{"n_features": 5000, "hidden_size": 128, "lr": 0.00047979223158972997, "batch_size": 64, "epochs": 15, "dropout_rate": 0.3756709687989547}
